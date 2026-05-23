@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Spotify",
+    "companyName": "Spotify",
+    "image": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
+    "description": "Music streaming app.",
+    "size": 80,
+    "reviews": 12000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000
+  },
+
+  {
+    "id": 2,
+    "title": "YouTube",
+    "companyName": "Google",
+    "image": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "description": "Video streaming app.",
+    "size": 120,
+    "reviews": 20000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000
+  },
+
+  {
+    "id": 3,
+    "title": "Facebook",
+    "companyName": "Meta",
+    "image": "https://cdn-icons-png.flaticon.com/512/124/124010.png",
+    "description": "Social media app.",
+    "size": 100,
+    "reviews": 14000,
+    "ratingAvg": 4.5,
+    "downloads": 3000000
+  },
+
+  {
+    "id": 4,
+    "title": "Instagram",
+    "companyName": "Meta",
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+    "description": "Photo sharing app.",
+    "size": 95,
+    "reviews": 16000,
+    "ratingAvg": 4.6,
+    "downloads": 3500000
+  }
+]
